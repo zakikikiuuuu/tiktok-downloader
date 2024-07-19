@@ -1438,3 +1438,15 @@ video {
     line-height: 2rem;
   }
 }
+footer {
+  margin: 15px auto;
+  display: flex;
+  justify-content: center;
+  font-family: Raleway;
+  font-size: 1.05em;
+}
+
+footer a {
+  text-decoration: none;
+  color: #0ef;
+}
